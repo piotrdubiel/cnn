@@ -1,0 +1,7 @@
+venv/
+build/
+net/tvec.txt
+net/tlab.txt
+net/tstv.txt
+net/tstl.txt
+.idea/

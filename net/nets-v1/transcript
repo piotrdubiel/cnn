@@ -1,0 +1,293 @@
+GNU Octave, version 3.2.4
+Copyright (C) 2009 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Octave was configured for "i686-pc-linux-gnu".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/help-wanted.html
+
+Report bugs to <bug@octave.org> (but first, please read
+http://www.octave.org/bugs.html to learn how to write a helpful report).
+
+For information about changes from previous versions, type `news'.
+
+Training digits net
+min_klasa = 0
+E =  9906.2
+E =  1400.9
+E =  1171.1
+E =  1112.1
+E =  1037.2
+E =  968.29
+E =  945.66
+E =  866.70
+E =  836.13
+E =  760.98
+E =  798.36
+E =  739.02
+E =  748.53
+E =  710.08
+E =  666.45
+E =  656.57
+E =  665.53
+E =  698.32
+E =  680.96
+E =  690.32
+E =  653.13
+E =  661.04
+E =  618.05
+E =  597.43
+E =  574.51
+E =  596.13
+E =  535.49
+E =  544.35
+E =  594.28
+E =  555.83
+ans = Teaching done
+quality =  0.94105
+Digit net DONE
+Training small letter net
+min_klasa =  45
+E =  1.3201e+05
+E =  2.2260e+04
+E =  2.0967e+04
+E =  1.9466e+04
+E =  1.9194e+04
+E =  1.9061e+04
+E =  1.8609e+04
+E =  1.7633e+04
+E =  1.7204e+04
+E =  1.7027e+04
+E =  1.6634e+04
+E =  1.6053e+04
+E =  1.5914e+04
+E =  1.5732e+04
+E =  1.5415e+04
+E =  1.5478e+04
+E =  1.5396e+04
+E =  1.5190e+04
+E =  1.5442e+04
+E =  1.4918e+04
+E =  1.5155e+04
+E =  1.5122e+04
+E =  1.5480e+04
+E =  1.4977e+04
+E =  1.5048e+04
+E =  1.4901e+04
+E =  1.4858e+04
+E =  1.4862e+04
+E =  1.4842e+04
+E =  1.4927e+04
+E =  1.4985e+04
+E =  1.4684e+04
+E =  1.4573e+04
+E =  1.4840e+04
+E =  1.4524e+04
+E =  1.4838e+04
+E =  1.4724e+04
+E =  1.4554e+04
+E =  1.4519e+04
+E =  1.4599e+04
+E =  1.4586e+04
+E =  1.4187e+04
+E =  1.3901e+04
+E =  1.3758e+04
+E =  1.4055e+04
+E =  1.3607e+04
+E =  1.3310e+04
+E =  1.3020e+04
+E =  1.3115e+04
+E =  1.2992e+04
+E =  1.3089e+04
+E =  1.3073e+04
+E =  1.3029e+04
+E =  1.2937e+04
+E =  1.3101e+04
+E =  1.3091e+04
+E =  1.3094e+04
+E =  1.2868e+04
+E =  1.2915e+04
+E =  1.2899e+04
+E =  1.2736e+04
+E =  1.2829e+04
+E =  1.3096e+04
+E =  1.2740e+04
+E =  1.2609e+04
+E =  1.2764e+04
+E =  1.2656e+04
+E =  1.2728e+04
+E =  1.2751e+04
+E =  1.2853e+04
+ans = Teaching done
+quality =  0.71243
+Small letter net DONE
+Training capital letter net
+min_klasa =  10
+E =  1.7686e+05
+E =  1.3504e+04
+E =  1.3044e+04
+E =  1.2759e+04
+E =  1.1980e+04
+E =  1.1421e+04
+E =  1.1056e+04
+E =  1.0903e+04
+E =  1.0846e+04
+E =  1.0960e+04
+E =  1.0671e+04
+E =  1.0569e+04
+E =  1.0382e+04
+E =  1.0372e+04
+E =  1.0509e+04
+E =  1.0224e+04
+E =  1.0092e+04
+E =  1.0055e+04
+E =  1.0226e+04
+E =  1.0103e+04
+E =  1.0177e+04
+E =  1.0207e+04
+E =  1.0064e+04
+E =  9964.0
+E =  9995.4
+E =  9898.8
+E =  9885.9
+E =  9912.7
+E =  1.0106e+04
+E =  9894.9
+E =  9899.1
+E =  1.0048e+04
+E =  9917.9
+E =  9751.3
+E =  9796.5
+E =  9848.6
+E =  9701.7
+E =  9653.4
+E =  9600.4
+E =  9492.6
+E =  9502.1
+E =  9594.4
+E =  9590.6
+E =  9261.9
+E =  8699.2
+E =  8860.2
+E =  8839.4
+E =  8779.0
+E =  8790.0
+E =  8658.4
+ans = Teaching done
+quality =  0.82927
+Capital letter net DONE
+Training letter or digit net
+min_klasa = 0
+E =  1019.6
+E =  1063.7
+E =  1596.1
+E =  1790.9
+E =  1649.6
+E =  1729.6
+E =  1837.3
+E =  1685.6
+E =  1495.3
+E =  1767.1
+E =  1895.1
+E =  1570.7
+E =  1593.0
+E =  1554.6
+E =  1657.5
+E =  1506.4
+E =  1576.6
+E =  1447.6
+E =  1869.0
+E =  1572.2
+E =  1656.4
+E =  1519.3
+E =  1475.3
+E =  1578.5
+E =  1316.7
+E =  1370.5
+E =  1192.5
+E =  1274.3
+E =  1525.3
+E =  1327.4
+E =  1447.0
+E =  1314.0
+E =  1509.6
+E =  1432.9
+E =  1571.5
+E =  1335.1
+E =  1642.9
+E =  1656.3
+E =  1518.5
+E =  1421.5
+E =  1448.5
+E =  1466.4
+E =  1345.3
+E =  1437.9
+E =  1636.5
+E =  1539.9
+E =  1803.8
+E =  1499.3
+E =  1602.9
+E =  1425.8
+ans = Teaching done
+quality =  0.91534
+Letter or digit net DONE
+Training capital or small net
+min_klasa = 0
+E =  1.2744e+04
+E =  9066.6
+E =  1.0389e+04
+E =  9344.6
+E =  1.0460e+04
+E =  9109.4
+E =  7698.2
+E =  8162.3
+E =  8084.5
+E =  8012.4
+E =  7590.1
+E =  8387.9
+E =  7592.5
+E =  7987.9
+E =  7280.4
+E =  7956.4
+E =  6859.3
+E =  7210.9
+E =  6888.1
+E =  8123.2
+E =  8069.8
+E =  6208.3
+E =  7199.6
+E =  7841.8
+E =  7023.3
+E =  6720.6
+E =  7354.4
+E =  7037.2
+E =  6970.7
+E =  7236.7
+E =  5235.0
+E =  5694.1
+E =  8543.9
+E =  6223.3
+E =  6555.7
+E =  6553.3
+E =  5926.0
+E =  5988.0
+E =  6683.3
+E =  7094.6
+E =  6216.2
+E =  6337.2
+E =  6492.5
+E =  8220.0
+E =  6711.5
+E =  6144.7
+E =  6338.5
+E =  6054.1
+E =  6336.2
+E =  6577.7
+ans = Teaching done
+quality =  0.73277
+Capital or small net DONE
